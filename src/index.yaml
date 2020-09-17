@@ -1,0 +1,5 @@
+ProjectTitle: cat-hotels
+
+PageList:
+- file: page.html
+  ready: 50
